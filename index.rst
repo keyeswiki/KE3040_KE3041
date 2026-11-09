@@ -1,9 +1,9 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3040 microbit 中级学习套件
+   :caption: KE3040（KE3041）microbit 中级学习套件
 
-   README.md
+   
    docs/index
    docs/中级学习套件介绍.md
    docs/安装microbit驱动说明书.md
